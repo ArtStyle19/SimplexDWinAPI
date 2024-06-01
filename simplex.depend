@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1717200609 source:c:\users\usuario\git\test_code_blocks\simplex\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1717200602 c:\users\usuario\git\test_code_blocks\simplex\resource.h
+
+1717200748 source:c:\users\usuario\git\test_code_blocks\simplex\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<limits>
+	<iostream>
+	<vector>
+
